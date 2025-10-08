@@ -6,8 +6,9 @@ export const {
     PORT,
     NODE_ENV,
     DB_URI,
+    SERVER_URL,
     JWT_SECRET,
     JWT_EXPIRES_IN,
-    ARCJET_ENV,
-    ARCJET_KEY,
+    ARCJET_ENV, ARCJET_KEY,
+    QSTASH_TOKEN,QSTART_URL,
 } = process.env;
