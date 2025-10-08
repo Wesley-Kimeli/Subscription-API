@@ -1,6 +1,6 @@
 # Subscription API
 
-A small Node.js/Express API for managing user subscriptions. Uses MongoDB (Mongoose) for persistence, JWT for authentication, Arcjet for basic bot/rate protection, and Upstash Workflows for reminder scheduling.
+A Node.js/Express API for managing user subscriptions. Uses MongoDB (Mongoose) for persistence, JWT for authentication, Arcjet for basic bot/rate protection, and Upstash Workflows for reminder scheduling.
 
 ## Features
 
